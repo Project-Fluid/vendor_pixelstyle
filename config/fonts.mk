@@ -18,14 +18,14 @@
 PRODUCT_PACKAGES += \
     ArbutusSlab-Regular.ttf
 
-# google-sans family
+# fluid-sans family
 PRODUCT_PACKAGES += \
-    GoogleSans-BoldItalic.ttf \
-    GoogleSans-Bold.ttf \
-    GoogleSans-Italic.ttf \
-    GoogleSans-MediumItalic.ttf \
-    GoogleSans-Medium.ttf \
-    GoogleSans-Regular.ttf
+    FluidSans-BoldItalic.ttf \
+    FluidSans-Bold.ttf \
+    FluidSans-Italic.ttf \
+    FluidSans-MediumItalic.ttf \
+    FluidSans-Medium.ttf \
+    FluidSans-Regular.ttf
 
 # lato family
 PRODUCT_PACKAGES += \
